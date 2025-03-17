@@ -16,7 +16,7 @@ timezone: Asia/Jakarta
 
 title: Muchamad Fatihurraman # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: IT Enthusiast | Entrepreneur | Indonesian # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,21 +28,22 @@ url: "https://latansatech.my.id"
 github:
   username: muchamadfatihurrahman # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Muchamad Fatihurrahman
-  email: example@domain.com # change to your email address
+#  email: example@latansatech.my.id # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
+    #- https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/mfatihurrahma/
+    - https://www.linkedin.com/in/muchamad-fatihurrahman
+    - https://www.instagram.com/muchamad.fatih
 
 # Site Verification Settings
 webmaster_verifications:
