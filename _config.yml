@@ -27,9 +27,12 @@ url: "https://latansatech.my.id"
 
 github:
   username: muchamadfatihurrahman # change to your GitHub username
-
-# twitter:
-#   username: twitter_username # change to your Twitter username
+twitter:
+  username: muchamad_fatih # change to your Twitter username
+instagram:
+  username: muchamad.fatih
+facebook:
+  username: TechnoTimLive
 
 social:
   # Change to your full name.
@@ -38,12 +41,12 @@ social:
 #  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/muchamadfatihurrahman # change to your GitHub homepage
+    - https://twitter.com/muchamad_fatih # change to your Twitter homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/mfatihurrahma/
     - https://www.linkedin.com/in/muchamad-fatihurrahman
     - https://www.instagram.com/muchamad.fatih
+    - https://www.facebook.com/muchamad.fatih
 
 # Site Verification Settings
 webmaster_verifications:
@@ -60,7 +63,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-LRBNNVWQCW # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:

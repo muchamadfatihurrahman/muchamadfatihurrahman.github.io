@@ -6,9 +6,9 @@ order: 4
 
 # 🚀 About Me
 
-## 👋 Muchamad Fatihurahman
+## 👋 Hi
 
-Hello! I'm Muchamad Fatihurahman, commonly known as Fatih. I am passionate about IT, homelabs, and technology in general. Additionally, I have a strong interest in business and entrepreneurship.
+I'm Muchamad Fatihurahman, commonly known as Fatih. I am passionate about IT, homelabs, and technology in general. Additionally, I have a strong interest in business and entrepreneurship.
 
 ## 💡 Interests & Skills
 - **IT & System Administration**: I have a keen interest in Linux-based operating systems, networking, cloud computing, and server management.
